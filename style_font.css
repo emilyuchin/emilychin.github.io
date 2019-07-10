@@ -1,10 +1,19 @@
 h1 {
   color: #0885A0;
+  text-align: center;
 }
 
 h2 {
   color: #D3AB18;
+  text-align: center;
 }
 body{
   background-color: #DED4DF;
 }
+h3 {
+  text-align: center;
+}
+img {
+  text-align: center;
+}
+
