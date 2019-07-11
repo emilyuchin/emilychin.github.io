@@ -1,0 +1,35 @@
+h1 {
+  color: #0885A0;
+  text-align: center;
+  font-family: fantasy;
+}
+
+h2 {
+  color: #D3AB18;
+  text-align: center;
+  font-family: courier
+}
+h3 {
+  text-align: center;
+  font-family: monospace;
+}
+h4 {
+  text-align: center;
+  font-family: monospace;
+}
+img {
+  text-align: center;
+}
+body {
+  background: linear-gradient(to top, #ffccff 0%, #ffcc99 100%)
+}
+myGif {
+  width=400px
+  height=500px
+}
+.button1:hover {
+  background-color: white;
+  color: 	#BDB76B;
+  font-size: 30px
+}
+button {font-size: 30px}
